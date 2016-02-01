@@ -9,3 +9,5 @@ def interDicts(*dicts):
 def another():
     pass
 
+def burak():
+    pass
