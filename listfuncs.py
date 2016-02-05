@@ -11,3 +11,6 @@ def another():
 
 def burak():
     pass
+
+def can():
+    pass
